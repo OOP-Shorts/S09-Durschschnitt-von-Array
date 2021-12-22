@@ -8,12 +8,12 @@ public class ArrayAverage {
 
     public static void main(String[] args) {
         int[] testArray = {2, 5, 7, 8, 9, 1, 6, 3, 4, 0};
-        int testSum = intArrayAverageWithMethod(testArray);
+        int testAverage = intArrayAverageWithMethod(testArray);
 
-        if(testSum == 4) {
+        if(testAverage == 4) {
             System.out.print("Correct!");
         } else {
-            System.out.println("Your solution was " + testSum + " but 4 is correct.");
+            System.out.println("Your solution was " + testAverage + " but 4 is correct.");
         }
     }
 }
