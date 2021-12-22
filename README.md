@@ -1,0 +1,1 @@
+# S09-Durschschnitt-von-Array
