@@ -1,1 +1,1 @@
-# S09-Durschschnitt-von-Array
+# S08-Array-Even-Sum
